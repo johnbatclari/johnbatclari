@@ -4,7 +4,7 @@ Slack: [@John Burbridge](https://clari.slack.com/archives/D03V7ME0P99) | Cel: [(
 ## Intros
 I'm beyond excited to have joined Clari! I spent the last 4 years at Apple working on Platform Engineering with a focus on CI/CD. I've worked for companies large and small and feel that Clari hits the sweet-spot.
 
-I live in Oakland, CA, with my wife and two kiddos. Here's a [picture of the 4 of us](https://photos.app.goo.gl/FT3ve1Etz1qVqJfV8) at Joshua Tree back in May, 2022. 
+I live in Oakland, CA, with my wife and two kiddos. Here's a [picture of the 4 of us](https://photos.app.goo.gl/FT3ve1Etz1qVqJfV8) at Joshua Tree back in May, 2022.
 
 ## My Role
 I manage the Developer Productivity team. Our mission is to provide the capabilities needed to build, test and deploy Clari's products. We offer reusable building blocks that allow Engineering teams to manage the quality and velocity with which they ship software.
@@ -12,7 +12,7 @@ I manage the Developer Productivity team. Our mission is to provide the capabili
 ## Preferences
 * Slack > SMS > Email
 * If its urgent, call my cel, anytime. After hours, please call twice.
-* My Google Calendar is public to all Clari employees.
+* My [Google Calendar](https://calendar.google.com/calendar/u/0?cid=amJ1cmJyaWRnZUBjbGFyaS5jb20) is public to all Clari employees.
 * I'm usually not available from 6:45am - 9:00am PST.
 
 ## 1:1's
