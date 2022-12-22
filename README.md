@@ -25,3 +25,18 @@ If you report to me, these rules apply. For other 1:1's our mileage may vary.
 
 ## Office Hours / Coffee Time
 I hold office hours everyday from 1:00 - 1:30pm PST. Here's the [Zoom link](https://clari.zoom.us/j/94942133775). Feel free to join if you'd like to chat about anything and everything. I'll be enjoying my post-lunch coffee and going through emails and Slack messages if no one shows up.
+
+## Miscellanea 
+Other items of interest / things I've been asked about.
+
+### Personal Kanban
+I used a private Trello Board to drive my personal Kanban. I use it to collect takeaway from meetings, Slack messages or just random ideas to 
+avoid letting actionable things fall through the cracks. Here's how I've configured my lanes (it may or may not work for you):
+1. Backlog / Ideas - these are ungroomed tasks
+2. To Do - prioritized tasks, ready to be picked up
+3. Waiting / Blocked - things that were taken off the “Doing” lane
+4. Doing - WIP, limited to 3 total
+5. Follow-up / Broadcast - this is my personal tweak, I use this column to remind myself to tell people when I’ve completed something. Not 
+everything needs to be announced but it’s a good forcing function. It’s also limited to 3 items in flight, but I always seem to go over.
+6. Done :tada:  - this has an animation that gives me a Pavlovian response every time I close something. :smile:
+
